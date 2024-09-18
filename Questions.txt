@@ -1,0 +1,10 @@
+What is 8 + 7?,12,4,1,15,4
+What continent has the least people?,Asia,Antarctica,Africa,Oceana,2
+What is 8 / 4?,2,4,12,32,1
+What is the capital city of England?,Washington.DC,Paris,London,Moscow,3
+What is 9 x 5?,14,34,46,45,4
+What is 8 x 9 -3?,72,75,69,14,3
+How many continents are there?,7,6,5,8,1
+What is 10 x 0.5?,2,5,20,4,2
+What is 12 x 12?,24,132,0,144,4
+What is 25% of 100?,2,3,4,5,3
